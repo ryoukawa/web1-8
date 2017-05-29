@@ -36,7 +36,7 @@ background:lightgreen;
 #gnav div.img{
 display: table-cell;
   vertical-align:middle;
-  background:url(../img/icon.jpg)no-repeat;
+  background:url(../img/css_icon.jpg)no-repeat;
   width:55px;
   height:46px;
 }
