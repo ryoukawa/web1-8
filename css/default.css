@@ -25,17 +25,26 @@ display:block;
   background:darkgreen;
   color:white;
 }
-
-#gnav a:hover{
-background:lightgreen;
-  color:black;
+#gnav a:after{
+  clear:both;
 }
-
-#gnav a.selected{
-background:white;
-color:darkgreen;
-  font-weight:bold;
+#gnav div.img{
+display: table-cell;
+  vertical-align:middle;
+  background:url(../img/css)no-repeat;
+  width:55px;
+  height:46px;
 }
+#gnav div.text{
+  display:table-cell;
+    vertical-align:middle;
+  padding:10px 5px;
+}
+div.{background-position:;}
+div.{background-position:;}
+div.{background-position:;}
+div.{background-position:;}
+div.{background-position:;}
 
 #gnav li{
   overflow:hidden;
