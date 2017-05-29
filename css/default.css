@@ -67,7 +67,7 @@ border-left:white 1px solid;
 }
   
 .breadcrumbs li{
-  display: inlime;
+  display: inline;
   list-style-type:none;
 }
 
