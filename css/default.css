@@ -25,6 +25,11 @@ display:block;
   background:darkgreen;
   color:white;
 }
+#gnav a:hover{
+background:lightgreen;
+  color:black;
+}
+
 #gnav a:after{
   clear:both;
 }
