@@ -4,6 +4,21 @@ body{
   background-color:yellow;
 }
 
+#gnav li{
+  overflow:hidden;
+}
+
+#gnav li{
+  float:left;
+  width:156px;
+  border-right:white 1px solid;
+  list-style-type:none;
+}
+
+#gnav li :first-child{
+border-left:white 1px solid;
+}
+  
 .breadcrumbs li{
   display: inlime;
   list-style-type:none;
