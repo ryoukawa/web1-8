@@ -45,11 +45,11 @@ display: table-cell;
     vertical-align:middle;
   padding:10px 5px;
 }
-div.home{background-position:0 0px;}
-div.main1{background-position:0 -46px;}
-div.main2{background-position:0 -92px;}
-div.help{background-position:0 -138px;}
-div.setting{background-position:0 -184px;}
+div.img#home{background-position:0 0px;}
+div.img#main1{background-position:0 -46px;}
+div.img#main2{background-position:0 -92px;}
+div.img#help{background-position:0 -138px;}
+div.img#setting{background-position:0 -184px;}
 
 #gnav li{
   overflow:hidden;
